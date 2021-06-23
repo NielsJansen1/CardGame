@@ -1,2 +1,3 @@
 # portfolioNiels
-hier kan ik mijn codes en uitleg in plaatsen voor mijn portfolio
+hier kunt u mijn CardGame project zien die ik op school heb gemaakt,
+deze mag u gebruiken hoe u maar wilt.
